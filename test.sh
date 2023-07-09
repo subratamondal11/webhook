@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello 1 $(date)"
+echo "Hello 2 $(date)"
